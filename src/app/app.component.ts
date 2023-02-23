@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'angular-hero-road';
 
   // comment
+  //comment again
   sad = "sda";
   text = 'asdwad';
 }
