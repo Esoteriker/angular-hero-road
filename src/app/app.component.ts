@@ -9,4 +9,6 @@ export class AppComponent {
   title = 'angular-hero-road';
 
   // comment
+  sad = "sda";
+  text = 'asdwad';
 }
